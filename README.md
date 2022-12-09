@@ -3,6 +3,10 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.youtube.com/channel/UCc8befmHDE1MAfAjGrUHfVg">
+    <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/shamil3310">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
 </div>
