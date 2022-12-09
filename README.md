@@ -7,6 +7,6 @@
     <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/shamil3310">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
