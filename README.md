@@ -1,6 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
+</div>
 
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.youtube.com/channel/UCc8befmHDE1MAfAjGrUHfVg">
     <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
@@ -9,6 +11,3 @@
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
-</div>
