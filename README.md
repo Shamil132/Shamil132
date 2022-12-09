@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCc8befmHDE1MAfAjGrUHfVg">
@@ -9,4 +7,8 @@
   <a href="https://t.me/shamil3310">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
 </div>
